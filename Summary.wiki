@@ -1,1 +1,5 @@
-Test
+This is the wiki page for the paper "Experimentally calibrate population of models
+predicts and explains inter-subject variability in cardiac cellular electrophysiology"
+by Britton et al.
+
+Model code used in the paper is provided here: 
